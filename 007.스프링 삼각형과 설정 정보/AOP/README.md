@@ -3,7 +3,8 @@
 ### AOP - Aspect? 관점? 핵심 관심사? 횡단 관심사? 
 > 스프링 DI가 의존성에 대한 주입이라면 스프링 AOP는 로직주입이라고 볼 수 있다. 
 
-[image](https://user-images.githubusercontent.com/56033943/215752786-4936a697-b480-40c1-94e2-8e4ca92258c9.png)
+![image](https://user-images.githubusercontent.com/56033943/215801980-fc0cb21f-ec6a-4006-9af2-926adbe8fa08.png)
+</br>
 횡단 관심사 : 이처럼 다수의 모듈에 공통적으로 나타나는 부분 </br>
 핵심 관심사 : 모듈별로 다르게 나타나는 부분 </br>
 **코드 = 핵심관심사 + 횡단 관심사**
